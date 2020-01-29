@@ -1,0 +1,8 @@
+Filename: water1.29.20.2.tiff
+      red value 168     green value 131      blue value  93       red ratio 0.428571     green ratio 0.334184      blue ratio 0.237245 hue: 30 
+ 
+ 
+Filename: water1.29.20.3.tiff
+      red value 174     green value 135      blue value  92       red ratio 0.433915     green ratio 0.336658      blue ratio 0.229426 hue: 31 
+ 
+ 
